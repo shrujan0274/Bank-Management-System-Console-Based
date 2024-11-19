@@ -1,3 +1,8 @@
+Shrujan Karthik V, Sharan N, Sudharsan Deepak S, Tamilselvan M<br>
+Department of Electronics And Communications Engineering,<br>
+Sri Eshwar College Of Engineering,<br>
+Coimbatore - 641202
+
 # Bank-Management-System
 Created a Console based Bank Management System using C Programming
 # Language Used
@@ -22,7 +27,7 @@ Sharan N<br>
 Sudharsan Deepak S<br>
 TamilSelvan M
 # Contact Details
-Shrujan Karthik V, Sharan N, Sudharsan Deepak S, Tamilselvan M<br>
-Department of Electronics And Communications Engineering,<br>
-Sri Eshwar College Of Engineering,<br>
-Coimbatore - 641202
+Shrujan Karthik V : shrujankarthik.v2023ece@sece.ac.in <br>
+Sharan N : sharan.n2023ece@sece.ac.in <br>
+Sudharsan Deepak S : sudharsandeepak.s2023ece@sece.ac.in <br>
+TamilSelvan M : tamilselvan.m2023ece@sece.ac.in 
