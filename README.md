@@ -1,9 +1,9 @@
+# Bank-Management-System
 Shrujan Karthik V, Sharan N, Sudharsan Deepak S, Tamilselvan M<br>
 Department of Electronics And Communications Engineering,<br>
 Sri Eshwar College Of Engineering,<br>
 Coimbatore - 641202
-
-# Bank-Management-System
+# Glance
 Created a Console based Bank Management System using C Programming
 # Language Used
 C (Cpp File Since some libraries in cpp also used)
