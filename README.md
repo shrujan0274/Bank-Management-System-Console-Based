@@ -12,8 +12,9 @@ Asks for Confirmation once again after valid input is entered
 Use This as they are built in user id passwords . You can use it to check the software. In order to Create a new account use create account option in console
 # Achievements 
 This console based application was created during C-Code Fiesta Buildathon held at Sri Eshwar College Of Engineering,Coimbatore-641202 on 4th January 2024 and won <b>1st prize</b>
-https://github.com/user-attachments/assets/0506a023-7a48-4a41-a28f-96cce886b524
-https://github.com/user-attachments/assets/c31f6ff7-7169-4a30-a5af-289e2ae20b7a
+![1705576785077 (1)](https://github.com/user-attachments/assets/de5c15a4-6deb-4ec1-aba2-d746ddf40ee6)
+![1705576785051 (1)](https://github.com/user-attachments/assets/d128523c-b2a3-476e-b6d0-61682395b62f)
+
 
 # Contributors
 Shrujan Karthik V<br>
